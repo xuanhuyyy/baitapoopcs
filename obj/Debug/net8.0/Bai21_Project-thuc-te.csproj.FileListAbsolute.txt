@@ -1,0 +1,15 @@
+D:\C#\can_ban\Bai21_Project-thuc-te\bin\Debug\net8.0\Bai21_Project-thuc-te.exe
+D:\C#\can_ban\Bai21_Project-thuc-te\bin\Debug\net8.0\Bai21_Project-thuc-te.deps.json
+D:\C#\can_ban\Bai21_Project-thuc-te\bin\Debug\net8.0\Bai21_Project-thuc-te.runtimeconfig.json
+D:\C#\can_ban\Bai21_Project-thuc-te\bin\Debug\net8.0\Bai21_Project-thuc-te.dll
+D:\C#\can_ban\Bai21_Project-thuc-te\bin\Debug\net8.0\Bai21_Project-thuc-te.pdb
+D:\C#\can_ban\Bai21_Project-thuc-te\obj\Debug\net8.0\Bai21_Project-thuc-te.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\can_ban\Bai21_Project-thuc-te\obj\Debug\net8.0\Bai21_Project-thuc-te.AssemblyInfoInputs.cache
+D:\C#\can_ban\Bai21_Project-thuc-te\obj\Debug\net8.0\Bai21_Project-thuc-te.AssemblyInfo.cs
+D:\C#\can_ban\Bai21_Project-thuc-te\obj\Debug\net8.0\Bai21_Project-thuc-te.csproj.CoreCompileInputs.cache
+D:\C#\can_ban\Bai21_Project-thuc-te\obj\Debug\net8.0\Bai21_Project-thuc-te.dll
+D:\C#\can_ban\Bai21_Project-thuc-te\obj\Debug\net8.0\refint\Bai21_Project-thuc-te.dll
+D:\C#\can_ban\Bai21_Project-thuc-te\obj\Debug\net8.0\Bai21_Project-thuc-te.pdb
+D:\C#\can_ban\Bai21_Project-thuc-te\obj\Debug\net8.0\Bai21_Project-thuc-te.genruntimeconfig.cache
+D:\C#\can_ban\Bai21_Project-thuc-te\obj\Debug\net8.0\ref\Bai21_Project-thuc-te.dll
+D:\C#\can_ban\Bai21_Project-thuc-te\obj\Debug\net8.0\Bai21_Project-thuc-te.sourcelink.json
